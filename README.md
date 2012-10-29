@@ -1,7 +1,7 @@
 Henry the Ghost
 ===============
 
-An Arduino ghost project I made on a Sunday before Halloween.  He's pretty simple - he lights up, fading from orange to purple, then randomly will flash red and play a spooky laugh or scream.  You can see a very short clip of it in operation here: http://www.youtube.com/watch?v=G8SFG6cB0VQ
+An Arduino ghost project I made on a Sunday before Halloween.  He's pretty simple - he lights up, fading from orange to purple, then randomly will flash red and play a spooky laugh or scream.  You can see a very short clip of it in operation here: http://www.youtube.com/watch?v=G8SFG6cB0VQ or a longer version here: http://www.youtube.com/watch?v=AgGDIzZsZo8
 
 I used an Arduino 2560, an Adafruit Wave Shield and 4 macetech ShiftBrites.  It fades from orange to purple anywhere from 5 to 10 times, then flashes red and randomly plays one of the WAV files on the SD card.  Rinse, repeat.
 
